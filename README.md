@@ -3,10 +3,10 @@
 IRIS Flower Classifiction Data Science Model
 
 Step 1: Problem Definition
-Predicting the 
+Predicting the species of the IRIS flower based on the sepal length, petal length, sepal width, petal width.
 
 Step 2: Data Collection
-Collect the Titanic dataset, and reading the data using the panda library.
+Collecting the IRIS Flower dataset, and reading the data using the panda library.
 
 Step 3: Data Exploration and Cleaning
 Exploring the data to understand its structure, summary statistics, and identify missing values.
