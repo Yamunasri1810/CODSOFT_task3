@@ -1,6 +1,6 @@
 # CODSOFT_task3
 
-#IRIS Flower Classifiction Data Science Model
+IRIS Flower Classifiction Data Science Model
 
 Step 1: Problem Definition
 Predicting whether the passenger traveled in the Titanic Survived or not.
